@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Crear un script en bash, que busque dentro de un archivo una palabra indicada por el usuario, 
-# y que el script devuelva la frase y en número de línea en la que se encuentra la palabra. El script debe buscar en todo
-# el archivo hasta el final. El archivo en el que va a buscar el script será un archivo .txt que incluirá una frase o palabra 
-# por línea.
-
 # Colores ANSI
 VERDE='\033[0;32m'
 AMARILLO='\033[1;33m'
